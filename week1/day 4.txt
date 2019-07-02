@@ -1,0 +1,14 @@
+var book ={
+  title: "sememen",
+  author: "sisay nigusu",
+  releaseDate: 1996,
+}
+  console.log(book)
+  console.log(book.title)
+
+var food = ["cake", "pizza", "tibs"]
+console.log (food)
+
+for (i=0; i<3; i++){
+  console.log (food[i])
+}

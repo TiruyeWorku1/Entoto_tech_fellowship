@@ -1,0 +1,3 @@
+SELECT * FROM meet
+ORDER BY name DESC
+select all databases names from meet table sorted descending by name

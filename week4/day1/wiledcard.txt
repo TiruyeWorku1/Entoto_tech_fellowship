@@ -1,0 +1,4 @@
+SELECT * FROM meet
+WHERE adress LIKE 'go%';
+select all meet with adress starting by 'go'
+search datas by aspecific adress starting with go.

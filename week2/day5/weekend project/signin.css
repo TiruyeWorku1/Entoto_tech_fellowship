@@ -1,0 +1,29 @@
+.signborder{
+    border: 10px solid blue;
+    border-radius: 500px;
+    margin-left: 480px;
+    margin-right:480px;
+    text-align: center;
+
+}
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row-reverse;
+    flex-direction: row;
+    width: 400px;
+    height: 250px;
+    margin-left: 600px;
+}
+.flex-item {
+justify-content: flex-end;
+align-items: flex-end;
+align-content: flex-end; 
+    width: 100px;
+    height: 100px;
+  
+}
+.image{
+    display: flex;
+    justify-content: center;
+}

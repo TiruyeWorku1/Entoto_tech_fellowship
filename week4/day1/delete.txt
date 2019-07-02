@@ -1,0 +1,4 @@
+DELETE FROM meet
+WHERE age='23' AND adress='ambo'
+delete:-
+delete aspecific columns by aspecifi columns with aspecific value.

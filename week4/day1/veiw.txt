@@ -1,0 +1,12 @@
+CREATE VIEW age AS
+SELECT contact
+FROM meet
+WHERE contact=0945068337
+show data with the same columns and the view name.
+//data
+SELECT * FROM meet WHERE age='23'
+select all meet data aspecific column values.
+//null
+SELECT list,Name,Adress FROM meet
+WHERE city IS NULL
+missing value when insert the data in to atabel.

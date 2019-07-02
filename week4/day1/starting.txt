@@ -1,0 +1,4 @@
+SELECT * FROM meet
+WHERE name LIKE 't%'
+description:-
+select all meets with aname starting with letter t.

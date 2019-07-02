@@ -1,0 +1,3 @@
+SELECT DISTINCT age FROM meet
+means select distinct columns from meet table names
+or differenet values from database table names

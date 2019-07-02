@@ -1,0 +1,4 @@
+SELECT countryid FROM country
+UNION
+SELECT stateid FROM state
+combine two or more results of the select statments  the columns must have the same data type and order.

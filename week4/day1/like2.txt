@@ -1,0 +1,3 @@
+SELECT * FROM meet
+WHERE adress LIKE 's%'
+description:-

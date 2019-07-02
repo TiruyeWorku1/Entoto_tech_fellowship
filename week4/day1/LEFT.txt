@@ -1,0 +1,4 @@
+SELECT * FROM  country
+LEFT JOIN  state
+ON  country.countryid= state.stateid
+SELECT all country with lft joins the same entry.

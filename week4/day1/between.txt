@@ -1,0 +1,4 @@
+SELECT * FROM meet
+WHERE adress BETWEEN 'g' AND 'o'
+description:-
+select all meet with adress beginning with any of the letter BETWEEN 'g' and 'o':

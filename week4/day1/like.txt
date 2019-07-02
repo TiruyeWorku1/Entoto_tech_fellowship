@@ -1,0 +1,5 @@
+SELECT *
+FROM meet
+LIMIT 5
+explanation:-
+select all classmet database from meet tabel only one up to five.

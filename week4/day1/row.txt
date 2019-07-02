@@ -1,0 +1,4 @@
+INSERT INTO meet()
+VALUES ('7','der','23','0918234','level4','debub')
+explanation:-
+only add new records or data into databases files.

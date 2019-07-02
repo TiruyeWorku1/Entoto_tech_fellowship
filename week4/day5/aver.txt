@@ -1,0 +1,68 @@
+//average()
+SELECT AVG(age) AS ageAverage FROM meet;
+return the sum of columns divisibale by 2.
+SELECT list, age FROM meet
+WHERE list>(SELECT AVG(list) FROM meet)
+average of specific to columns.
+///count()
+SELECT COUNT(age) FROM meet;
+count the number of rows with there value.
+SELECT COUNT(*) FROM meet;
+count all tabels.
+//countdistinct
+SELECT COUNT(DISTINCT contact) FROM meet;
+count disitinct or different values from table meet.
+//last()
+SELECT age FROM meet
+ORDER BY age DESC
+LIMIT 2
+return the last value
+///first()
+SELECT adress FROM meet
+ORDER BY age ASC
+LIMIT 2
+return the first columns from table meet.
+///max()
+SELECT MAX(adress) FROM meet
+return the laregest value from meet table.
+///min()
+SELECT MIN(city) FROM meet
+return or display smallest value fro the tabel meet.
+//sum()
+SELECT SUM(age) FROM meet
+return total sum of age from meet table.
+///group
+SELECT adress, COUNT(adress)
+FROM meet
+WHERE adress= 'gonder'
+GROUP BY adress LIMIT 2
+group by the column name with aspecific value.
+//haveing
+SELECT age, MAX(age)
+FROM 
+//len()
+SELECT LENGTH(adress) FROM meet
+length of the taxt filed of aspecific columns from atable meet.
+SELECT Name,LENGTH(name) as LengthOfname
+FROM meet
+WHERE age='23'
+GROUP BY age
+HAVING COUNT(adress)LIMIT 2
+//ucase
+SELECT UCASE(name) FROM meet
+convert lower case letters to upper case letters.
+//lcase
+SELECT LCASE(name) FROM meet
+convert column name into lower case letters.
+///mid()
+SELECT MID(City,1,4) AS ShortCity
+FROM meet
+count the mid length of the column from table name.
+///rounded
+SELECT Name, ROUND(age,23) AS Roundedage
+FROM meet.
+///now
+SELECT Name, age, Now() AS Perlist
+FROM meet
+//format
+SELECT FORMAT(contact,city) FROM meetsss

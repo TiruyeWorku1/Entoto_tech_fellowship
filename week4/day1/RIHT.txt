@@ -1,0 +1,4 @@
+SELECT * FROM  country
+RIGHT JOIN  state
+ON  country.countryid= state.stateid
+JIONS the right on the same entry.

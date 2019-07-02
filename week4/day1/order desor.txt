@@ -1,0 +1,3 @@
+SELECT * FROM meet
+ORDER BY age ASC, Name DESC
+means all classmet from meet order by ages and desordered by name

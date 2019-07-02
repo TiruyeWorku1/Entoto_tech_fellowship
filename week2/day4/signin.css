@@ -1,0 +1,8 @@
+.signborder {
+    border: 10px solid blue;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+
+}

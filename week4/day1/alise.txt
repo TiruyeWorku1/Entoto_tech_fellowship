@@ -1,0 +1,4 @@
+SELECT column_name AS name
+FROM table_name;
+description
+give temporariy name to adatabse table or columns.

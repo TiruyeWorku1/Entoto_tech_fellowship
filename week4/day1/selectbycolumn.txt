@@ -1,0 +1,3 @@
+SELECT Name,adress FROM meet
+explanation:-
+select specific columnse from the table.

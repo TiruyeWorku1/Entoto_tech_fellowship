@@ -1,0 +1,7 @@
+SELECT * FROM meet
+ORDER BY adress
+set or arrang columnsby decreasing or increasing order
+or ordered by decresing order
+SELECT * FROM meet
+ORDER BY age
+this order by age

@@ -1,0 +1,4 @@
+UPDATE meet
+SET Name='tiruye Schmidt', age='23'
+update:-
+only records with out columns.

@@ -1,0 +1,4 @@
+SELECT * FROM  country
+INNER JOIN  state
+ON  country.countryid= state.stateid
+select all country inner jion with the same entry.

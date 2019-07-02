@@ -1,0 +1,3 @@
+SELECT * FROM meet
+description:-
+select all classmet database files from meet table names or dispaly all database info into ascreen

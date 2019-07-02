@@ -1,0 +1,4 @@
+DELETE FROM meet
+WHERE Name='leli' AND age='20'
+delete:-
+remove column records and values from meet table.

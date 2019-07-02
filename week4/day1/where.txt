@@ -1,0 +1,5 @@
+SELECT  `adress` FROM `meet` WHERE adress='gonder'
+select the specific value of the column adressfrom the table name meet
+SELECT * FROM meet
+WHERE list='1'
+select the whole value of the column oflist from the tabel  name meet

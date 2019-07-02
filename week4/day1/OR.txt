@@ -1,0 +1,6 @@
+SELECT * FROM meet
+WHERE adress='bahirdar'
+OR list='2'
+explanation:-
+OR:- operator displays the record if either the first condition or the second condtion are true the result shuold be true
+or both condition are true the result is the same

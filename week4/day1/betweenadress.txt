@@ -1,0 +1,3 @@
+SELECT * FROM meet
+WHERE adress BETWEEN 'gonder' AND 'wello';
+select all meet where adress between gonder and wello.

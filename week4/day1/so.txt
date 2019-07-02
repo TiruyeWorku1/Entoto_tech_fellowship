@@ -1,0 +1,4 @@
+SELECT * FROM meet
+WHERE adress LIKE '%go%'
+description:-
+select all meet with adress starting with respectively two letters 'go'.

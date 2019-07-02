@@ -1,0 +1,3 @@
+SELECT countryname FROM country
+UNION ALL
+SELECT countryid FROM state

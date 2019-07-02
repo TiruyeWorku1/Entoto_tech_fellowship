@@ -1,0 +1,4 @@
+INSERT INTO meet (list,name,age,contact,adress,educationallevel)
+VALUES ('7','jhon','67','0918234512','wellega','level3');
+explanation:-
+add anew records or datas into adatabase files.

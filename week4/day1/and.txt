@@ -1,0 +1,5 @@
+SELECT * FROM Customers
+WHERE Country='Germany'
+AND City='Berlin'; 
+explanation:-both the condition are true the result be true
+or the 'AND'operator diplays both conditions are true

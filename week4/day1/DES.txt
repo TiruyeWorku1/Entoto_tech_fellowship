@@ -1,0 +1,3 @@
+SELECT * FROM meet
+ORDER BY list DESC
+SELECT ALL classmet from meet tables sorted desorder by lists
